@@ -8,7 +8,7 @@ Botium Toys, a small U.S.-based business with a physical storefront and warehous
 
 The IT manager is particularly focused on complying with regulations related to online payments and business operations in the European Union. To address these challenges, she has begun implementing the NIST Cybersecurity Framework (NIST CSF), outlining the audit's scope and goals, identifying managed assets, and conducting a risk assessment. The audit's primary aim is to evaluate the risks and potential fines associated with the current state of the company's security posture, ensuring compliance and safeguarding business operations as Botium Toys continues to expand.
 
-My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
+My task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a [controls and compliance checklist.](https://github.com/dainecryption/SecurityAudit/blob/main/Controls%20and%20compliance%20checklist.pdf)
 <br />
 
 
