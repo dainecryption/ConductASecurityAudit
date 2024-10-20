@@ -2,7 +2,7 @@
 
 <h2>Scenario</h2>
 
-<i>This scenario is based on a fictional company:</i>
+<i>*This scenario is based on a fictional company.</i>
 
 Botium Toys, a small U.S.-based business with a physical storefront and warehouse, has seen its online presence grow, attracting customers domestically and internationally. As the demand increases, the company's IT department faces heightened pressure to support its expanding online market. Concerned about compliance and maintaining smooth operations during this growth, the IT manager has decided to conduct an internal IT audit to better secure the company's infrastructure and manage potential risks.
 
